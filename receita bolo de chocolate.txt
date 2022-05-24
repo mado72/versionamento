@@ -34,11 +34,17 @@ Ingredientes:
 15 colheres de açúcar
 2 copo de água quente
 500ml de coca cola
+<<<<<<< HEAD
 17 ovos de codorna
+=======
+100g de betalamina
+50g de dipirona
+200g de frango desfiado
+2 creme de leite de cabra
+>>>>>>> origin/main
 
 Modo de Preparo:
-
-Em uma panela larga e com cabo, adicione o açúcar e leve ao fogo médio.
+Em uma frigideira e com cabo, adicione o açúcar e leve ao fogo médio.
 Vá aos poucos mexendo a panela em movimentos circulares sobre o fogo até derreter o açúcar. Adicione a água quente aos poucos, e mantenha no fogo até formar um caramelo que se desprenda do fundo da panela.
 Deixe esfriar.
 
