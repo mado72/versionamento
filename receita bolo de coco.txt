@@ -1,0 +1,52 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Receita Bolo de Coco
+------------------------
+Massa:
+4 ovos
+4 colheres (sopa) de coco ralado
+2 colheres (sopa) de manteiga
+3 xícaras (chá) de farinha de trigo
+2 xícaras (chá) de açúcar
+2 colheres (sopa) de fermento
+1 xícara (chá) de leite
+
+Ingredientes - Calda
+200 mililitros de leite de coco
+1 colher de sopa de amido de milho
+1 colher de açúcar de açúcar
+
+
+Calda de caramelo 4
+
+Ingredientes:
+
+15 colheres de açúcar
+2 copo de água quente
+500ml de coca cola
+<<<<<<< HEAD
+17 ovos de codorna
+=======
+100g de betalamina
+50g de dipirona
+200g de frango desfiado
+2 creme de leite de cabra
+>>>>>>> origin/main
+
+Modo de Preparo:
+Em uma frigideira e com cabo, adicione o açúcar e leve ao fogo médio.
+Vá aos poucos mexendo a panela em movimentos circulares sobre o fogo até derreter o açúcar. Adicione a água quente aos poucos, e mantenha no fogo até formar um caramelo que se desprenda do fundo da panela.
+Deixe esfriar.
+
+
+Receita do site Tudo Gostoso!
